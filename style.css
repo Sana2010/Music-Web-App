@@ -1,0 +1,59 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0;
+}
+
+.note
+{
+font-size: 15px;
+color: #000;
+}
+
+body
+{
+background-size: cover;
+}
+
+.div_Kiss_and_Makeup
+{
+float: left;
+}
+
+.div_Kiss_and_Makeup_img
+{
+width: 200px;
+border-radius: 100px;
+}
+
+#Kiss_and_Makeup
+{
+font-size: 23px;
+margin: 15px;
+color: black;
+}
+
+.div_Safari
+{
+float: right;
+}
+
+.div_Safari_img
+{
+width: 200px;
+border-radius: 100px;
+}
+
+#Safari
+{
+font-size: 23px;
+margin: 15px;
+color: black;
+}
+
+canvas
+{
+border: 5px solid rgb(0, 0, 0);
+border-radius: 20px;
+}
